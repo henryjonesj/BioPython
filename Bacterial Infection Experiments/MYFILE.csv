@@ -1,0 +1,7 @@
+Species,QueryCoverage,Identity
+Campylobacter,99.0,99.7289972899729
+Escherichia,99.0,99.7289972899729
+Shigella,99.0,99.59349593495935
+Klebsiella,99.0,99.59349593495935
+Salmonella,99.0,99.59349593495935
+Neisseria,99.0,100.0
